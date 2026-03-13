@@ -1,0 +1,19 @@
+﻿@model MVCexample1.Models.Employee
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h1>
+    Details
+</h1>
+<h1>@Model.EmpName</h1>
+<div><img src ="@Model.ImageUrl" alt="@Model.EmpName" width="300" height="300"/></div>
+<div>
+    <h2>Employee Details</h2>
+    <p>
+        Road traffic accidents continue to pose a major challenge for urban transportation systems, resulting in significant social and economic consequences. Identifying accident-prone locations and estimating accident risk levels are essential for supporting proactive road safety management and informed traffic planning. Traditional accident analysis methods often rely on historical statistics and reactive investigation, which limits their ability to anticipate emerging risk patterns. With the increasing availability of transportation datasets, machine learning techniques provide new opportunities to analyze accident data and uncover spatial patterns associated with accident occurrence. In this study, road safety data obtained from the UK Department for Transport (DfT), specifically the DfT Road Casualty Statistics – Collision 2024 and Vehicle 2024 datasets, are utilized to support data-driven accident risk analysis.
+    </p>
+    <h2>@Model.Salary</h2>
+    <h2><a asp-action="collectionofobjectpassinng">back to list</a></h2>
+</div>

@@ -1,0 +1,9 @@
+﻿namespace MVCexample1.Models
+{
+    public class Dept
+    {
+        public int DeptID { get; set; }
+        public string DeptName { get; set; }
+        public List<Employee> Employees { get; set; } = new List<Employee>();
+    }
+}
