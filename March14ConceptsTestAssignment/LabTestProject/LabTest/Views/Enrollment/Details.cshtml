@@ -1,0 +1,31 @@
+﻿@model IEnumerable<LabTest.ViewModels.StudentCoursesVM>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<table class="table">
+    <tr>
+        <th>Student Name</th>
+        <th>Branch</th>
+        <th>Course</th>
+        <th>Grade</th>
+        <th>Attempt</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.StudentName</td>
+            <td>@item.Branch</td>
+            <td>@item.CourseTitle</td>
+            <td>@item.Grade</td>
+            <td>@item.AttemptNumber</td>
+        </tr>
+    }
+
+</table>
+
+<a asp-action="Index">Back</a>
