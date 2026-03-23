@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|d:\\.net-training\\march19proj\\codefirstefinasp.netcomdemoproject\\codefirstefinasp.netcomdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A7780-723A-447A-911F-B199D0FC2D2D}|CodeFirstEFinAsp.netcomdemo\\CodeFirstEFinAsp.netcomdemo.csproj|solutionrelative:codefirstefinasp.netcomdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260319065313_InitialCreate.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065313_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:53:13.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260319065258_InitialClean.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319065258_InitialClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:52:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260319064941_jbbh.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319064941_jbbh.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:49:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:44:55.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:37:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260319063617_InitialClean.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063617_InitialClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:36:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260319063211_CleanFix.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319063211_CleanFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:32:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260319062551_newchanges.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319062551_newchanges.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:25:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260319061016_fourtablesaddeds.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319061016_fourtablesaddeds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:10:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "displayemp.cshtml",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Views\\Home\\displayemp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:07:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:01:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260319052243_fourtablesadded.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Migrations\\20260319052243_fourtablesadded.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:22:44.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\UserDetail.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\UserDetail.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\UserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:21:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:07:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course1.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Course1.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Course1.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Course1.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Course1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:49:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author1.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Author1.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Author1.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Author1.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Author1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:49:12.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\EventContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\EventContext.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\EventContext.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\EventContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:35:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Program.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:32:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\appsettings.Development.json",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\appsettings.Development.json",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T04:31:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Student.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:30:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Course.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Course.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:29:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp.netcomdemo\\Models\\Author.cs",
+              "ToolTip": "D:\\.NET-TRAINING\\March19proj\\CodeFirstEFinAsp.netcomdemoproject\\CodeFirstEFinAsp.netcomdemo\\Models\\Author.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp.netcomdemo\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:29:25.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
