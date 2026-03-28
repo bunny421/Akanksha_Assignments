@@ -1,0 +1,24 @@
+﻿@model List<ProductMVC.Models.Product>
+
+<h2>Product List</h2>
+
+<a href="/Product/Create">Add Product</a>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Category</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Category</td>
+        </tr>
+    }
+</table>
